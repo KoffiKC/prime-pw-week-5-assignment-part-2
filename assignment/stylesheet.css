@@ -1,15 +1,21 @@
 header {
-  background-color: purple;
-  color: yellow;
+  background-color: #ce00ec;
+  color: #fffaaa;
   text-align: center;
 }
 
 main {
+  padding: 1em;
   background-color: lightgrey;
 }
 
 body {
   background-image: url(record.png);
+  margin: 0px;
+}
+
+h2 {
+  margin-bottom: 0px;
 }
 
 h6 {
