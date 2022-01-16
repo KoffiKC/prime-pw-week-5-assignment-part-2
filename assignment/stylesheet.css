@@ -10,6 +10,7 @@ main {
 }
 
 body {
+  /* background-image: url(Untitled14_20220114153742.png); just was seeing how it would look patterned differently */
   background-image: url(record.png);
   margin: 0px;
 }
